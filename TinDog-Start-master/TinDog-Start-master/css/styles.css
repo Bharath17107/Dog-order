@@ -1,0 +1,204 @@
+
+h1
+{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+ 
+}
+.container-fluid
+{
+    padding:3% 15% 7%;
+    
+}
+/*Navigation bar */
+.navbar-brand
+{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 2.5rem;
+}
+.navbar
+{
+  padding-bottom: 4.5rem;
+}
+.nav-item
+{
+  padding:0 18px;
+}
+.nav-link
+{
+  font-size: 1.2rem;
+}
+
+/*Botton*/
+.download-botton
+{
+  margin-top: 5%;
+}
+/*title-image*/
+.title-image
+{
+ width: 22%;
+ transform: rotate(25deg);
+ position: absolute;
+ padding-top: 6%;
+ margin-left: 5%;
+}
+/*Features-section */
+.head
+{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.para
+{
+  color: #8f8f8f;
+  text-align: center;
+}
+.image1
+{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+#features
+{
+  padding: 7% 15%;
+  background-color: #fff;
+  position:relative;
+  z-index: 1;
+ 
+}
+.features-box
+{
+  text-align: center;
+  padding: 5%;
+}
+.row
+{
+width: auto;
+}
+.image1:hover
+{
+  color: #ff4c68;
+}
+
+/*Testimonials-section*/
+#testimonials
+{
+   background-color: #ef8172;
+   text-align: center;
+  
+}
+.carousel-item
+{
+  padding: 7% 15%;
+}
+.ladyimage
+{
+  height:100px;
+  border-radius: 100%;
+  
+}
+.h2
+{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+.testimonials-image
+{
+   width:10%;
+   border-radius: 100%;
+   margin: 20px;
+}
+#press
+{
+  background-color:#ef8172 ;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo
+{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+/*Pricing*/
+.h2price
+{
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+.h2pricepara
+{
+  text-align: center;
+  
+}
+.padprice
+{
+  margin: 10% auto;
+}
+
+.card1
+{
+  text-align: center;
+ 
+}
+.row
+{
+   margin-bottom: 12%;
+}
+@media (max-width:1028px)
+{
+  .title-image
+  {
+    position: static;
+    transform: rotate(0);
+    margin-left: 0%;
+    width: 40%;
+  }
+
+}
+
+#cta
+{
+  height: 30%;
+  text-align: center;
+  padding: 7% 15%;
+ 
+}
+
+.head3
+{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+  width: 70%;
+  margin-left: 17%;
+}  
+#footer
+{
+  padding: 7% 15%;
+  text-align: center;
+}
+.icon
+{
+  margin: 20px 10px;
+}
+
+/* Section */
+
+.color-section
+{
+  background-color: #ff4c68;
+  color: white;
+}
+.white-section
+{
+  background-color: #fff
+}
